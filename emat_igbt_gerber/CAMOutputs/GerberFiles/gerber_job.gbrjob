@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-11-05T19:46:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "emat_igbt_switch"
+        },
+        "Owner": "shevchenko adb <shevchenko.adb@gmail.com>",
+        "Size": {
+            "X": 100,
+            "Y": 80
+        }
+    }
+}

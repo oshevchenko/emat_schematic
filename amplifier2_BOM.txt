@@ -1,0 +1,28 @@
+Partlist exported from /home/oleksandr/workspace/emat/emat_schematic/amplifier2.sch at 4/14/19 7:21 PM
+
+Qty Value                Device               Package                  Parts                        Description
+1 > 0.1uF                C-EUC0805            C0805                    C27                          CAPACITOR, European symbol
+1 > 1.5K                 R-US_R1206W          R1206W                   R24                          RESISTOR, American symbol
+1   10                   R-US_R1206W          R1206W                   R33                          RESISTOR, American symbol
+1   1K                   R-US_R1206W          R1206W                   R34                          RESISTOR, American symbol
+4 > 1N4148               DIODE-MINIMELF       MINIMELF                 D3, D4, D5, D6               DIODE        
+1 > 1uF                  C-EUC0805            C0805                    C26                          CAPACITOR, European symbol
+6   2                    R-US_R1206W          R1206W                   R28, R29, R30, R31, R32, R40 RESISTOR, American symbol
+1   27                   R-US_R1206W          R1206W                   R27                          RESISTOR, American symbol
+1   270                  R-US_R1206W          R1206W                   R25                          RESISTOR, American symbol
+1 > 2N4401               2N4401-NPN-TO92-EBC  TO92-EBC                 T13                          NPN Transistror
+4 > 2N7002               NMOSSOT23            SOT-23                   T12, T15, T16, T17           MOS FET
+2 > 3.3nF                C-EUC0805            C0805                    C23, C28                     CAPACITOR, European symbol
+1 > 47uF 35V             CPOL-US153CLV-1010   153CLV-1010              C24                          POLARIZED CAPACITOR, American symbol
+1   51                   R-US_R1206W          R1206W                   R26                          RESISTOR, American symbol
+1   510                  R-US_R1206W          R1206W                   R36                          RESISTOR, American symbol
+1 > 68K                  R-US_R1206W          R1206W                   R23                          RESISTOR, American symbol
+1 > BC847C               BC847C-NPN-SOT23-BEC SOT23-BEC                T14                          NPN Transistror
+1   DNS                  R-US_R1206W          R1206W                   R39                          RESISTOR, American symbol
+1 > PC817                PC817                DIL04                    OK1                          SHARP OPTO COUPLER
+1   SMA-142-0701-801/806 SMA-142-0701-801/806 J502-ND-142-0701-801/806 X2                           SMA 50 Ohm End Launch Jack 
+1   TPSB2,54             TPSB2,54             B2,54                    TP2                          TEST PIN +3.3V         
+1   TPSB2,54             TPSB2,54             B2,54                    TP1                          TEST PIN +12V          
+1   TPSB2,54             TPSB2,54             B2,54                    TP3                          TEST PIN AMP_ON        
+2   TPSB2,54             TPSB2,54             B2,54                    TP5, TP6                     TEST PIN GND           
+1   TPSB2,54             TPSB2,54             B2,54                    TP4                          TEST PIN In            

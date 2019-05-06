@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-11-10T19:27:45Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "amplifier"
+        },
+        "Owner": "shevchenko adb <shevchenko.adb@gmail.com>",
+        "Size": {
+            "X": 84.76,
+            "Y": 62.22
+        }
+    }
+}
